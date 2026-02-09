@@ -33,4 +33,3 @@ jobs:
           push: true
           tags: |
             eddis5/planetas_api:latest
-            
