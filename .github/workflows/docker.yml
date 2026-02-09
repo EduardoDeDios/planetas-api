@@ -32,4 +32,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            eddis5/planetas_api:latest
+            eddis5/planetas-api:latest
